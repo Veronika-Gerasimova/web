@@ -128,10 +128,6 @@ section:nth-child(2n){
 .photo {
     display: none;
 }
-        .paragraph_head {
-        padding: 3px 5px;
-        border-width: 2px;
-    }
         .head {
         font-size: 15px;  
     }
