@@ -135,7 +135,7 @@ section:nth-child(2n){
         border-radius: 0%;
     }   
 }
-@media (max-width: 768px) {
+@media screen and (max-width: 450px) {
     .head {
         font-size: 30px; 
     }
