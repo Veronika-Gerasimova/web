@@ -70,8 +70,11 @@
     width: 50%;
 }
 .carousel-item img{
-    max-width: 100%;
+    width: auto;
     height: auto;
+}
+.carousel-inner {
+    padding: 0;
 }
 .figure {
     border: 5px solid rgb(131, 110, 226); 
