@@ -134,10 +134,11 @@ section:nth-child(2n){
     .photo {
         border-radius: 0%;
     }   
-}
-@media screen and (max-width: 450px) {
     .head {
-        font-size: 30px; 
+        font-size: 20px;  
+    }
+    .paragraph_head {
+        border-width: 2px;
     }
 }
 .container {
