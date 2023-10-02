@@ -66,12 +66,15 @@
     margin: 0 10px 10px 0;
  }
 .carousel-slide {
-   height: 80%;
-    width: 80%;
+   height: 100%;
+    width: 100%;
 }
 .carousel-item img{
     width: auto;
     height: auto;
+}
+.col-md-8 {
+    max-width: 100%;
 }
 .figure {
     border: 5px solid rgb(131, 110, 226); 
