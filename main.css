@@ -133,12 +133,19 @@ section:nth-child(2n){
         border-width: 2px;
     }
         .head {
-        font-size: 20px;  
+        font-size: 15px;  
     }
         .paragraph_head {
         border-width: 2px;
         padding: 3px 5px;
     }
+    .paragraph2 {
+     font-size: 10px;
+    }
+        .paragraph3 {
+     font-size: 10px;
+    }
+    
 }
 
 @media screen and (min-width: 320px){
@@ -151,6 +158,12 @@ section:nth-child(2n){
     .paragraph_head {
         border-width: 2px;
         padding: 3px 5px;
+    }
+        .paragraph2 {
+     font-size: 10px;
+    }
+        .paragraph3 {
+     font-size: 10px;
     }
 }
 .container {
