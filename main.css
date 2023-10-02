@@ -66,11 +66,11 @@
     margin: 0 10px 10px 0;
  }
 .carousel-slide {
-   height: 70%;
-    width: 70%;
+   height: 50%;
+    width: 50%;
 }
 .carousel-item img{
-    width: 70%;
+    width: 50%;
     height: auto;
 }
 .figure {
