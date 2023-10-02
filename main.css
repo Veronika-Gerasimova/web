@@ -128,6 +128,13 @@ section:nth-child(2n){
 .photo {
     display: none;
 }
+        .paragraph_head {
+        padding: 3px 5px;
+        border-width: 2px;
+    }
+        .head {
+        font-size: 20px;  
+    }
 }
 
 @media screen and (min-width: 750px){
@@ -139,6 +146,7 @@ section:nth-child(2n){
     }
     .paragraph_head {
         border-width: 2px;
+        padding: 3px 5px;
     }
 }
 .container {
